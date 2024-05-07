@@ -129,6 +129,8 @@ public class CreateCardForm extends Application {
             alert.setContentText("Card number already exists");
             alert.showAndWait();
             return;
+
+
         }
         String sqlCommand = "INSERT INTO `cards` (`name`, `cardNumber`, `phone`, `pincode`,`balance`) VALUES ('" + name + "', '" + cardNumber + "', '" + phone + "', '" + pincode + "','"+balance+"')";
         DatabaseConnection.saveData(sqlCommand);

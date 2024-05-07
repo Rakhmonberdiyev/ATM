@@ -125,6 +125,8 @@ public class LoginForm extends Application {
         stage.close();
 
     }
+    //blue color for login button, red color for cancel button, blue color for create button
+
 
     private void applyStyles() {
         // Applying styles for better appearance
