@@ -1,12 +1,3 @@
-Group project from SSE2 Group#2
-
-Group members:
-1. Jamol Shoymurzayev
-2. Farhod Qarshiyev (Project Menegment)
-3. Muhammad Umar Toshpo'latov
-4. Rakhimberdi Rakhmonberdiyev 
-5. Nizomiddin Egamberdiyev
-6. Arislanbek Kalbayev
 
 Project: ATM
 
